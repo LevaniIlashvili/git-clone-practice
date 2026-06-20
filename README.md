@@ -1,1 +1,1 @@
-# git-clone-practice-magaria
+# git-clone-practice
